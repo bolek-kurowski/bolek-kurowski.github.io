@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Haskell | Bolek's List]]></title>
+  <link href="http://bolek-kurowski.github.io/blog/categories/haskell/atom.xml" rel="self"/>
+  <link href="http://bolek-kurowski.github.io/"/>
+  <updated>2013-07-13T18:33:23-04:00</updated>
+  <id>http://bolek-kurowski.github.io/</id>
+  <author>
+    <name><![CDATA[Bolek]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Learn Haskell]]></title>
+    <link href="http://bolek-kurowski.github.io/blog/2013/07/13/learn-haskell/"/>
+    <updated>2013-07-13T18:29:00-04:00</updated>
+    <id>http://bolek-kurowski.github.io/blog/2013/07/13/learn-haskell</id>
+    <content type="html"><![CDATA[<p>Want to learn Haskell? Check out this great free book available online: <a href="http://learnyouahaskell.com/">http://learnyouahaskell.com/</a></p>
+]]></content>
+  </entry>
+  
+</feed>
