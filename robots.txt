@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://bolek-kurowski.github.io/sitemap.xml 
