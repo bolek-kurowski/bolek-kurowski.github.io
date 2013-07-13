@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: heroku | Bolek's List]]></title>
+  <link href="http://bolek-kurowski.github.io/blog/categories/heroku/atom.xml" rel="self"/>
+  <link href="http://bolek-kurowski.github.io/"/>
+  <updated>2013-07-13T18:53:27-04:00</updated>
+  <id>http://bolek-kurowski.github.io/</id>
+  <author>
+    <name><![CDATA[Bolek]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Streamling your deployment with Heroku PipeLines]]></title>
+    <link href="http://bolek-kurowski.github.io/blog/2013/07/13/heroku-pipelines/"/>
+    <updated>2013-07-13T18:42:00-04:00</updated>
+    <id>http://bolek-kurowski.github.io/blog/2013/07/13/heroku-pipelines</id>
+    <content type="html"><![CDATA[<p>Ever thought that there could be a way to define a deployment flow?</p>
+
+<p>Heroku team thought about it: <a href="https://blog.heroku.com/archives/2013/7/10/heroku-pipelines-beta">https://blog.heroku.com/archives/2013/7/10/heroku-pipelines-beta</a></p>
+]]></content>
+  </entry>
+  
+</feed>
