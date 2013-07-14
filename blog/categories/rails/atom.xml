@@ -4,7 +4,7 @@
   <title><![CDATA[Category: rails | Bolek's List]]></title>
   <link href="http://bolek-kurowski.github.io/blog/categories/rails/atom.xml" rel="self"/>
   <link href="http://bolek-kurowski.github.io/"/>
-  <updated>2013-07-14T11:29:23-04:00</updated>
+  <updated>2013-07-14T12:14:56-04:00</updated>
   <id>http://bolek-kurowski.github.io/</id>
   <author>
     <name><![CDATA[Bolek]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Streamling your deployments with Heroku PipeLines]]></title>
+    <title type="html"><![CDATA[Streamlining your deployments with Heroku PipeLines]]></title>
     <link href="http://bolek-kurowski.github.io/blog/2013/07/13/streamling-your-deployments-with-heroku-pipeLines/"/>
     <updated>2013-07-13T18:42:00-04:00</updated>
     <id>http://bolek-kurowski.github.io/blog/2013/07/13/streamling-your-deployments-with-heroku-pipeLines</id>
