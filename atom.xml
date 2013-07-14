@@ -4,7 +4,7 @@
   <title><![CDATA[Bolek's List]]></title>
   <link href="http://bolek-kurowski.github.io/atom.xml" rel="self"/>
   <link href="http://bolek-kurowski.github.io/"/>
-  <updated>2013-07-13T18:56:36-04:00</updated>
+  <updated>2013-07-14T11:29:23-04:00</updated>
   <id>http://bolek-kurowski.github.io/</id>
   <author>
     <name><![CDATA[Bolek]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Big-O complexities]]></title>
+    <link href="http://bolek-kurowski.github.io/blog/2013/07/14/big-o-complexities/"/>
+    <updated>2013-07-14T11:24:00-04:00</updated>
+    <id>http://bolek-kurowski.github.io/blog/2013/07/14/big-o-complexities</id>
+    <content type="html"><![CDATA[<p>A great cheat sheet with a summary of Big-O complexities for the most popular algorithms:
+<a href="http://bigocheatsheet.com/">http://bigocheatsheet.com/</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Streamling your deployments with Heroku PipeLines]]></title>

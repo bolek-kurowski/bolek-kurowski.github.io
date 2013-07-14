@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Big-O | Bolek's List]]></title>
+  <link href="http://bolek-kurowski.github.io/blog/categories/big-o/atom.xml" rel="self"/>
+  <link href="http://bolek-kurowski.github.io/"/>
+  <updated>2013-07-14T11:29:23-04:00</updated>
+  <id>http://bolek-kurowski.github.io/</id>
+  <author>
+    <name><![CDATA[Bolek]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Big-O complexities]]></title>
+    <link href="http://bolek-kurowski.github.io/blog/2013/07/14/big-o-complexities/"/>
+    <updated>2013-07-14T11:24:00-04:00</updated>
+    <id>http://bolek-kurowski.github.io/blog/2013/07/14/big-o-complexities</id>
+    <content type="html"><![CDATA[<p>A great cheat sheet with a summary of Big-O complexities for the most popular algorithms:
+<a href="http://bigocheatsheet.com/">http://bigocheatsheet.com/</a></p>
+]]></content>
+  </entry>
+  
+</feed>
