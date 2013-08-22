@@ -4,7 +4,7 @@
   <title><![CDATA[Bolek's List]]></title>
   <link href="http://bolek-kurowski.github.io/atom.xml" rel="self"/>
   <link href="http://bolek-kurowski.github.io/"/>
-  <updated>2013-07-14T12:14:56-04:00</updated>
+  <updated>2013-08-22T01:44:27-04:00</updated>
   <id>http://bolek-kurowski.github.io/</id>
   <author>
     <name><![CDATA[Bolek]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Key Shortcuts discovery made simple]]></title>
+    <link href="http://bolek-kurowski.github.io/blog/2013/08/22/key-shortcuts-discovery-made-simple/"/>
+    <updated>2013-08-22T01:38:00-04:00</updated>
+    <id>http://bolek-kurowski.github.io/blog/2013/08/22/key-shortcuts-discovery-made-simple</id>
+    <content type="html"><![CDATA[<p>This is one of those deadly simple apps that make your life so much easier. Discover key shortcuts in zink on OSX. <a href="http://www.cheatsheetapp.com/CheatSheet/">http://www.cheatsheetapp.com/CheatSheet/</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Big-O complexities]]></title>
