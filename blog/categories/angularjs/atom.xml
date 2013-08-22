@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: angularjs | Bolek's List]]></title>
+  <link href="http://bolek-kurowski.github.io/blog/categories/angularjs/atom.xml" rel="self"/>
+  <link href="http://bolek-kurowski.github.io/"/>
+  <updated>2013-08-22T01:48:46-04:00</updated>
+  <id>http://bolek-kurowski.github.io/</id>
+  <author>
+    <name><![CDATA[Bolek]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Yo AngularJS]]></title>
+    <link href="http://bolek-kurowski.github.io/blog/2013/08/22/yo-angularjs/"/>
+    <updated>2013-08-22T01:46:00-04:00</updated>
+    <id>http://bolek-kurowski.github.io/blog/2013/08/22/yo-angularjs</id>
+    <content type="html"><![CDATA[<p>Thinking about angularjs (and not only)? Give yoeman <a href="http://yeoman.io/">http://yeoman.io/</a> a try.
+Grunt Bower karma coffeescript npm &ndash; what else do you need to make you happy to build awesome web apps ?</p>
+]]></content>
+  </entry>
+  
+</feed>
