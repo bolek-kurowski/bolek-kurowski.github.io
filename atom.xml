@@ -4,7 +4,7 @@
   <title><![CDATA[Bolek's List]]></title>
   <link href="http://bolek-kurowski.github.io/atom.xml" rel="self"/>
   <link href="http://bolek-kurowski.github.io/"/>
-  <updated>2013-08-22T01:48:46-04:00</updated>
+  <updated>2013-08-22T01:52:57-04:00</updated>
   <id>http://bolek-kurowski.github.io/</id>
   <author>
     <name><![CDATA[Bolek]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[MongoDB + AngularJs + Express + Node out of the box]]></title>
+    <link href="http://bolek-kurowski.github.io/blog/2013/08/22/mongodb-plus-angularjs-plus-express-plus-node-out-of-the-box/"/>
+    <updated>2013-08-22T01:51:00-04:00</updated>
+    <id>http://bolek-kurowski.github.io/blog/2013/08/22/mongodb-plus-angularjs-plus-express-plus-node-out-of-the-box</id>
+    <content type="html"><![CDATA[<p>Clean boilerplate &ndash; <a href="http://www.mean.io/">http://www.mean.io/</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Yo AngularJS]]></title>
